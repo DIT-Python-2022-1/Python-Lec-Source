@@ -1,3 +1,5 @@
+# OpenWeather icon 처리 : https://openweathermap.org/weather-conditions#How-to-get-icon-URL
+
 from tkinter import *
 import requests
 import json
